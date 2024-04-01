@@ -26,4 +26,4 @@ In terms of interactivity, I chose click selection as the primary interactive fe
 Data transformations were carried out in the Python notebook using pd.read_csv to read the data, applying filters to exclude records with a year of 0, square footage of 0, or number of floors of 0. Moreover, only buildings constructed from 2001 onwards were selected for display. These transformations ensure the accuracy of analysis and visualization, focusing on building trends in the 21st century.
 
 The Data：[Data Link](https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv)
-The Notebook：[Link to Jupyter Notebook](URL)
+The Notebook：[Link to Jupyter Notebook](https://github.com/modestcharlie/IS445_Assignment8/blob/main/_notebooks/Assignment_8.ipynb)
